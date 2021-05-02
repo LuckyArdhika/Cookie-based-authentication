@@ -1,5 +1,5 @@
 # Cookie-based-authentication-
-Authentication demo using cookies ( register, login, logout )
+Authentication demo using cookies on nodejs and expressjs ( register, login, logout )
 
 <h2>How to Install?</h2>
 <pre>
